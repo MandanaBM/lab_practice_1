@@ -14,7 +14,7 @@ In order to gain more hands-on experience with the linux shell, following exerci
 
 6. Append current date and time and your name to the end of "info.txt".
 
-7. Use "--help" or `$man touch` command and check the use case of `$touch` command. Then, make a directory under lab\_practice\_1 named "scripts" and under the "scripts" folder, make a file named "script.sh" and write the following lines one by one to the file (Optional: you can also check the documentation of `$echo` there is an option that you can enable for interpreting "\\n". Then you can add all lines in one command).
+7. Use "--help" or `$man touch` command and check the use case of `$touch` command. Then, make a directory under lab_practice_1 named "scripts" and under the "scripts" folder, make a file named "script.sh" and write the following lines one by one to the file (Optional: you can also check the documentation of `$echo` there is an option that you can enable for interpreting "\\n". Then you can add all lines in one command).
 
 ```
 #!/bin/bash
