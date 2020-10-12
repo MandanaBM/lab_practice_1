@@ -1,10 +1,10 @@
 # COMP201 - Lab 01 
 
-In order to gain more hands-on experience with the linux shell, following exercise is designed. It is required to perform this exercise and push your resulted file structures to the GitHub classroom by end of the lab session. You are required to perform all operations using the linux shell.
+In order to gain more hands-on experience with the linux shell, following exercise is designed. It is required to perform this exercise and push your work to Blackboard by end of the lab session. You are required to perform all operations using the linux shell.
 
 1. Clone the exercise repository by executing the following command:
-	`$ git clone TO BE REPLACED SOON`
-2. Open hello.c file in your terminal and change the "printf" function to print "Welcome to the COMP201 Lab01". Then compile the hello.c code with `$make` command and run the code.
+	`$ git clone https://github.com/COMP201-Fall-2020/lab_practice_1`
+2. Open hello.c file in your terminal and change the "printf" function to print "Welcome to the COMP201 Lab01". Then compile the hello.c code with `make` command and run the code.
     
 3. Make a new directory under doc folder named "info".
 
